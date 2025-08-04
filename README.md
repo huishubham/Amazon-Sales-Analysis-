@@ -57,6 +57,6 @@ E-commerce businesses often face challenges in identifying underperforming marke
 ---
 
 ## 6. Screenshots  
-![Dashboard Preview – Overview](<insert_screenshot_path_here>)  
-![Dashboard Preview – Products](<insert_screenshot_path_here>)  
-![Dashboard Preview – Contact Us](<insert_screenshot_path_here>)  
+![Dashboard Preview – Overview](<https://github.com/huishubham/Amazon-Sales-Analysis-/blob/main/Dashboard%20Snap%201.png>)  
+![Dashboard Preview – Products](<https://github.com/huishubham/Amazon-Sales-Analysis-/blob/main/Dashboard%20Snap%202.png>)  
+![Dashboard Preview – Contact Us](<https://github.com/huishubham/Amazon-Sales-Analysis-/blob/main/Dashboard%20Snap%203.png>)  
